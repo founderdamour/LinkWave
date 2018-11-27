@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="LinkWaveView">
+        <attr name="mLinkColor" format="color"/>
+        <attr name="mWaveSpeed" format="integer"/>
+        <attr name="mLinkCount" format="integer"/>
+        <attr name="mIsStarting" format="boolean"/>
+        <attr name="mCentreViewWidth" format="dimension"/>
+    </declare-styleable>
+
+</resources>
